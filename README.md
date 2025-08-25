@@ -1,2 +1,3 @@
 # belajar-kolaborasi
-**Progres Belajar fi dan github (70%)**
+**Progres Belajar git dan github (70%)** <br>
+- Melakukan squash changes
