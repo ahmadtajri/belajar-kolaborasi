@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Progres Belajar fi dan github (70%)
+**Progres Belajar fi dan github (70%)**
